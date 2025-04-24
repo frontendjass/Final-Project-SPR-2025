@@ -1,0 +1,200 @@
+800
+fruits
+red apples
+4.32
+801
+fruits
+green grapes
+6.65
+802
+fruits
+bananas
+7.85
+803
+fruits
+navel oranges
+2.54
+804
+fruits
+lemons
+6.28
+805
+vegetables
+romaine lettuce
+8.89
+806
+vegetables
+spinach
+1.42
+807
+vegetables
+kale
+6.43
+808
+vegetables
+sweet potatoes
+4.51
+809
+vegetables
+celery stalks
+4.45
+810
+dairy
+whole milk
+2.68
+811
+dairy
+cheddar cheese
+9.71
+812
+dairy
+yogurt, plain
+1.29
+813
+dairy
+butter, unsalted
+1.6
+814
+dairy
+cream cheese
+9.01
+815
+bakery
+white bread
+1.72
+816
+bakery
+whole wheat rolls
+3.86
+817
+bakery
+croissants
+7.65
+818
+bakery
+bagels
+1.09
+819
+bakery
+muffins
+5.47
+820
+meat
+chicken breast
+7.52
+821
+meat
+ground beef
+3.47
+822
+meat
+pork chops
+2.82
+823
+meat
+turkey slices
+8.76
+824
+meat
+bacon
+4.99
+825
+frozen
+frozen peas
+9.79
+826
+frozen
+ice cream, vanilla
+5.7
+827
+frozen
+frozen pizza
+3.67
+828
+frozen
+waffles, frozen
+6.91
+829
+frozen
+frozen berries
+8.2
+830
+snacks
+potato chips
+1.64
+831
+snacks
+pretzels
+3.65
+832
+snacks
+trail mix
+1.02
+833
+snacks
+granola bars
+5.17
+834
+snacks
+popcorn
+7.18
+835
+beverages
+orange juice
+9.47
+836
+beverages
+bottled water
+6.78
+837
+beverages
+soda, cola
+3.86
+838
+beverages
+green tea
+7.79
+839
+beverages
+coffee grounds
+3.96
+840
+cleaning
+dish soap
+9.05
+841
+cleaning
+laundry detergent
+2.36
+842
+cleaning
+paper towels
+9.72
+843
+cleaning
+sponges
+2.32
+844
+cleaning
+glass cleaner
+6.96
+845
+canned
+canned beans
+5.02
+846
+canned
+canned tuna
+8.57
+847
+canned
+canned corn
+8.83
+848
+canned
+tomato soup
+4.96
+849
+canned
+chicken broth
+7.15
