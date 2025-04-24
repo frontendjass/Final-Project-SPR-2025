@@ -1,200 +1,200 @@
-800
+31
 fruits
 red apples
 4.32
-801
+22
 fruits
 green grapes
 6.65
-802
+15
 fruits
 bananas
 7.85
-803
+5
 fruits
 navel oranges
 2.54
-804
+38
 fruits
 lemons
 6.28
-805
+30
 vegetables
 romaine lettuce
 8.89
-806
+9
 vegetables
 spinach
 1.42
-807
+43
 vegetables
 kale
 6.43
-808
+14
 vegetables
 sweet potatoes
 4.51
-809
+25
 vegetables
 celery stalks
 4.45
-810
+10
 dairy
 whole milk
 2.68
-811
+35
 dairy
 cheddar cheese
 9.71
-812
+3
 dairy
 yogurt, plain
 1.29
-813
+27
 dairy
 butter, unsalted
 1.6
-814
+2
 dairy
 cream cheese
 9.01
-815
+41
 bakery
 white bread
 1.72
-816
+29
 bakery
 whole wheat rolls
 3.86
-817
+47
 bakery
 croissants
 7.65
-818
+26
 bakery
 bagels
 1.09
-819
+33
 bakery
 muffins
 5.47
-820
+23
 meat
 chicken breast
 7.52
-821
+19
 meat
 ground beef
 3.47
-822
+34
 meat
 pork chops
 2.82
-823
+7
 meat
 turkey slices
 8.76
-824
+12
 meat
 bacon
 4.99
-825
+48
 frozen
 frozen peas
 9.79
-826
+21
 frozen
 ice cream, vanilla
 5.7
-827
+4
 frozen
 frozen pizza
 3.67
-828
+40
 frozen
 waffles, frozen
 6.91
-829
+32
 frozen
 frozen berries
 8.2
-830
+39
 snacks
 potato chips
 1.64
-831
+16
 snacks
 pretzels
 3.65
-832
+11
 snacks
 trail mix
 1.02
-833
+20
 snacks
 granola bars
 5.17
-834
+8
 snacks
 popcorn
 7.18
-835
+36
 beverages
 orange juice
 9.47
-836
+17
 beverages
 bottled water
 6.78
-837
+24
 beverages
 soda, cola
 3.86
-838
+6
 beverages
 green tea
 7.79
-839
+18
 beverages
 coffee grounds
 3.96
-840
+44
 cleaning
 dish soap
 9.05
-841
+13
 cleaning
 laundry detergent
 2.36
-842
+45
 cleaning
 paper towels
 9.72
-843
+46
 cleaning
 sponges
 2.32
-844
+50
 cleaning
 glass cleaner
 6.96
-845
+37
 canned
 canned beans
 5.02
-846
+28
 canned
 canned tuna
 8.57
-847
+1
 canned
 canned corn
 8.83
-848
+42
 canned
 tomato soup
 4.96
-849
+49
 canned
 chicken broth
 7.15
